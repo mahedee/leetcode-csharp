@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.271
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PerfectSquare", "PerfectSquare\PerfectSquare.csproj", "{E01A98B4-93E7-4119-AE99-9A577ECBE7A6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PerfectSquareTest", "PerfectSquareTest\PerfectSquareTest.csproj", "{F05EE194-E800-4C5F-A261-B321DEF9D90F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E01A98B4-93E7-4119-AE99-9A577ECBE7A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E01A98B4-93E7-4119-AE99-9A577ECBE7A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E01A98B4-93E7-4119-AE99-9A577ECBE7A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E01A98B4-93E7-4119-AE99-9A577ECBE7A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F05EE194-E800-4C5F-A261-B321DEF9D90F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F05EE194-E800-4C5F-A261-B321DEF9D90F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F05EE194-E800-4C5F-A261-B321DEF9D90F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F05EE194-E800-4C5F-A261-B321DEF9D90F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {974CA652-9E62-4B23-B593-65B7EF7DFCF0}
+	EndGlobalSection
+EndGlobal

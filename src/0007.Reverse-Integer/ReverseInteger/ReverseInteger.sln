@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.271
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReverseInteger", "ReverseInteger\ReverseInteger.csproj", "{C2AD6E2C-1DCA-4222-90B6-8ED770B00301}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestProject1", "UnitTestProject1\UnitTestProject1.csproj", "{FD539C82-F47C-4D63-B1DD-0E70FF2A8088}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C2AD6E2C-1DCA-4222-90B6-8ED770B00301}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2AD6E2C-1DCA-4222-90B6-8ED770B00301}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2AD6E2C-1DCA-4222-90B6-8ED770B00301}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2AD6E2C-1DCA-4222-90B6-8ED770B00301}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD539C82-F47C-4D63-B1DD-0E70FF2A8088}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD539C82-F47C-4D63-B1DD-0E70FF2A8088}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD539C82-F47C-4D63-B1DD-0E70FF2A8088}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD539C82-F47C-4D63-B1DD-0E70FF2A8088}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C642BCF9-C507-4BA4-9C91-ED211F236280}
+	EndGlobalSection
+EndGlobal

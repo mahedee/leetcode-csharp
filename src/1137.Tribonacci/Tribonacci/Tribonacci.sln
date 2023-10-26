@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.271
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tribonacci", "Tribonacci\Tribonacci.csproj", "{EBFB10DE-51EF-4A44-A621-E068F6F6132B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TribonacciTest", "TribonacciTest\TribonacciTest.csproj", "{8189DAF6-1DC4-4EEA-9358-D5047345EA26}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EBFB10DE-51EF-4A44-A621-E068F6F6132B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBFB10DE-51EF-4A44-A621-E068F6F6132B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBFB10DE-51EF-4A44-A621-E068F6F6132B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBFB10DE-51EF-4A44-A621-E068F6F6132B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8189DAF6-1DC4-4EEA-9358-D5047345EA26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8189DAF6-1DC4-4EEA-9358-D5047345EA26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8189DAF6-1DC4-4EEA-9358-D5047345EA26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8189DAF6-1DC4-4EEA-9358-D5047345EA26}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A573935D-A837-45B5-93A8-8C9BDD67DD83}
+	EndGlobalSection
+EndGlobal
